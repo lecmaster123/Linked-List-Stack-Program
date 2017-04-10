@@ -1,2 +1,2 @@
 # Linked-List-Stack-Program
-Project to convert from infix to postfix and postfix to infix notation.
+Project to convert from infix to postfix and postfix to infix notation. This uses a stack to store the input from the user and depending on specific conditions, it pops and pushes elements from the input in a specific notation. The linked list stores the equations and conversions to be printed when necessary. The options are to convert from infix to postfix, postfix to infix, print equations and exit the program. After the program is terminated it prints all of the conversions.
